@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/chris73006/Christina-Portfolio.git/static/css/main.e780cbfa.css",
-    "main.js": "/chris73006/Christina-Portfolio.git/static/js/main.2f28e9c5.js",
-    "static/js/415.4d6acbeb.chunk.js": "/chris73006/Christina-Portfolio.git/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/chris73006/Christina-Portfolio.git/static/js/787.1ed0c42c.chunk.js",
-    "static/media/car-price.png": "/chris73006/Christina-Portfolio.git/static/media/car-price.fc02332b94da2b08ab12.png",
-    "static/media/cert1.png": "/chris73006/Christina-Portfolio.git/static/media/cert1.1fd78465be3ef97cb39d.png",
-    "static/media/aboutg.png": "/chris73006/Christina-Portfolio.git/static/media/aboutg.108cb39afa6ec5ff0ba1.png",
-    "static/media/cert2.png": "/chris73006/Christina-Portfolio.git/static/media/cert2.7be74efcde0751b7e718.png",
-    "static/media/home pic.png": "/chris73006/Christina-Portfolio.git/static/media/home pic.b9359ea9635028b54c7b.png",
-    "static/media/myavatar.png": "/chris73006/Christina-Portfolio.git/static/media/myavatar.48fb2a674a2d220e4f7c.png",
-    "static/media/sentiment.jpeg": "/chris73006/Christina-Portfolio.git/static/media/sentiment.fb16042865b25e5fe593.jpeg",
-    "static/media/Christina-resume.pdf": "/chris73006/Christina-Portfolio.git/static/media/Christina-resume.9f7e8b5e633ca494267e.pdf",
-    "static/media/visualization.webp": "/chris73006/Christina-Portfolio.git/static/media/visualization.7bee2f1db13597bf28e9.webp",
-    "static/media/C1.png": "/chris73006/Christina-Portfolio.git/static/media/C1.b1f246c9f0f232dc05f5.png",
-    "static/media/home-bg.jpg": "/chris73006/Christina-Portfolio.git/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/chris73006/Christina-Portfolio.git/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/chris73006/Christina-Portfolio.git/index.html",
-    "main.e780cbfa.css.map": "/chris73006/Christina-Portfolio.git/static/css/main.e780cbfa.css.map",
-    "main.2f28e9c5.js.map": "/chris73006/Christina-Portfolio.git/static/js/main.2f28e9c5.js.map",
-    "415.4d6acbeb.chunk.js.map": "/chris73006/Christina-Portfolio.git/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/chris73006/Christina-Portfolio.git/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/chris73006/Christina-Portfolio/static/css/main.f3c97e7f.css",
+    "main.js": "/chris73006/Christina-Portfolio/static/js/main.ac8e8873.js",
+    "static/js/415.4d6acbeb.chunk.js": "/chris73006/Christina-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/chris73006/Christina-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/car-price.png": "/chris73006/Christina-Portfolio/static/media/car-price.fc02332b94da2b08ab12.png",
+    "static/media/cert1.png": "/chris73006/Christina-Portfolio/static/media/cert1.1fd78465be3ef97cb39d.png",
+    "static/media/aboutg.png": "/chris73006/Christina-Portfolio/static/media/aboutg.108cb39afa6ec5ff0ba1.png",
+    "static/media/cert2.png": "/chris73006/Christina-Portfolio/static/media/cert2.7be74efcde0751b7e718.png",
+    "static/media/home pic.png": "/chris73006/Christina-Portfolio/static/media/home pic.b9359ea9635028b54c7b.png",
+    "static/media/myavatar.png": "/chris73006/Christina-Portfolio/static/media/myavatar.48fb2a674a2d220e4f7c.png",
+    "static/media/sentiment.jpeg": "/chris73006/Christina-Portfolio/static/media/sentiment.fb16042865b25e5fe593.jpeg",
+    "static/media/Christina-resume.pdf": "/chris73006/Christina-Portfolio/static/media/Christina-resume.9f7e8b5e633ca494267e.pdf",
+    "static/media/visualization.webp": "/chris73006/Christina-Portfolio/static/media/visualization.7bee2f1db13597bf28e9.webp",
+    "static/media/C1.png": "/chris73006/Christina-Portfolio/static/media/C1.b1f246c9f0f232dc05f5.png",
+    "static/media/home-bg.jpg": "/chris73006/Christina-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/chris73006/Christina-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/chris73006/Christina-Portfolio/index.html",
+    "main.f3c97e7f.css.map": "/chris73006/Christina-Portfolio/static/css/main.f3c97e7f.css.map",
+    "main.ac8e8873.js.map": "/chris73006/Christina-Portfolio/static/js/main.ac8e8873.js.map",
+    "415.4d6acbeb.chunk.js.map": "/chris73006/Christina-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/chris73006/Christina-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e780cbfa.css",
-    "static/js/main.2f28e9c5.js"
+    "static/css/main.f3c97e7f.css",
+    "static/js/main.ac8e8873.js"
   ]
 }
